@@ -13,7 +13,8 @@ My skill set spans various tools and technologies that enable me to build robust
 - **Tableau**: Advanced skills in creating interactive dashboards and visual analytics.
 - **C Programming**: Strong foundation in C programming for building efficient and effective solutions.
 
-🌱 Currently Learning
+## 🌱 Currently Learning
+
 I’m continually exploring new areas to broaden my skill set. Right now, I’m focused on deepening my knowledge in:
 
 Excel: Advanced techniques in data analysis, pivot tables, and automation.
